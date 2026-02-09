@@ -22,7 +22,7 @@
                 Masuk Dashboard
             </button>
         </form>
-        <p class="mt-4 text-center text-xs text-slate-500 italic">*Khusus Admin & Uploader</p>
+        <p class="mt-4 text-center text-xs text-slate-500 italic">*Khusus Admin</p>
     </div>
 </body>
 </html>

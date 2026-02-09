@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
+$host = "127.0.0.1";
 $user = "root";
 $pass = "";
-$db   = "myfilm_db"; // Sesuaikan dengan nama yang baru kamu buat
+$db   = "peler"; // Sesuaikan dengan nama yang baru kamu buat
 
 $koneksi = mysqli_connect($host, $user, $pass, $db);
 
